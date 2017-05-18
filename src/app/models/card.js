@@ -6,3 +6,5 @@ const Card = Backbone.Model.extend({
     shape: hash['shape']
   }
 })
+
+export default Card;
